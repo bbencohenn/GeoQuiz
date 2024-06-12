@@ -1,3 +1,6 @@
+# Created by Ben Cohen as an act of war against boredom.
+
+#these libraries are required for the program to function obviously
 import geopandas as gpd
 import matplotlib.pyplot as plt
 import pycountry
